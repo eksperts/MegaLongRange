@@ -9,6 +9,20 @@ The 7'' long range quadcopter frame with 3D printed accessories
   * the bottom cylinder needs to be about 8mm tall, excluding the base
   * the top screw needs to be exactly 10mm tall, excluding the head
 
+## Weight estimates
+6mm arms: 86g
+5mm arms: 72g
+4mm arms: 57g
+The other 2mm carbon fiber plates: 25g
+Hardware: 15g
+
+Total with 6mm arms: 126g
+Total with 5mm arms: 112g
+Total with 4mm arms: 97g
+
+For canopy and antenna mount prints, add another 20-30g.
+
+
 ## Suggested parts that fit the 3D prints
 * The canopy is designed for DJI FPV camera, so it would make sense to go with a DJI FPV Air Unit.
 * If using a DJI FPV Air Unit, you'll need two (2) [TBS MMCX-to-SMA pigtails](https://www.team-blacksheep.com/products/prod:sma_mmcx9_pigtail) for the antenna mount.
