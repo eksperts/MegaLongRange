@@ -1,5 +1,6 @@
 # MegaLongRange
 The 7'' long range quadcopter frame with 3D printed accessories
+![MegaLongRange sketch](MegaLongRange.png)
 
 ## Additional hardware required
 * Two (2) M3x28mm aluminium standoffs, external diameter 5mm
