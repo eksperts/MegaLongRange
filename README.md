@@ -2,6 +2,9 @@
 The 7'' long range quadcopter frame with 3D printed accessories
 ![MegaLongRange sketch](MegaLongRange.png)
 
+## How does it fly?
+GoPro Hero 7 Black, no stabilisation on BrotherHobby 2808 1500kv motors, 1800mAh 6S LiPo: [Watch on YouTube](https://www.youtube.com/watch?v=DcVzKVmMOWc)
+
 ## Additional hardware required
 * Two (2) M3x28mm aluminium standoffs, external diameter 5mm
 * Four (4) M3x20mm aluminium standoffs, external diameter 5mm
