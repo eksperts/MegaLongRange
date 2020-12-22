@@ -13,11 +13,13 @@ The 7'' long range quadcopter frame with 3D printed accessories
 ## Weight estimates
 All carbon fiber parts plus hardware.
 
-6mm arms: 137g
-5mm arms: 117g
-4mm arms: 97g
+**6mm** arms: **137g**
 
-For canopy and antenna mount prints, add another 20-30g.
+**5mm** arms: **117g**
+
+**4mm** arms: **97g**
+
+For canopy and antenna mount prints, add another **20-30g**.
 
 
 ## Suggested parts that fit the 3D prints
